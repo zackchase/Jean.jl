@@ -2,8 +2,11 @@
 Loss functions
 Performance Metrics
 Data reading
+Cross validation
 Logistic Regression
 Stochastic Gradient Descent
 Adagrad
 Checkgrad
+Neural Network
+Backpropagation
 
