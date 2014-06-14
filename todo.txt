@@ -1,0 +1,9 @@
+
+Loss functions
+Performance Metrics
+Data reading
+Logistic Regression
+Stochastic Gradient Descent
+Adagrad
+Checkgrad
+
