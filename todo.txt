@@ -11,3 +11,16 @@ Checkgrad
 Neural Network
 Backpropagation
 
+
+jean <dataset> -e10 algorithm
+
+each algorithm specifices a distinct configuration?
+logistic regression - regularization constant
+                    - learning rate
+
+
+
+How to specificy shared weights ?
+
+
+Does each neuron have an associated activation function or each layer?
